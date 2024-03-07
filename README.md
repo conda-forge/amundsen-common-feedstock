@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/amundsen-common
 
 Home: https://github.com/amundsen-io/amundsen/tree/main/common
 
-Package license: Apache-2.0
+Package license: MIT AND Apache-2.0
 
 Summary: Common code library for Amundsen
 
