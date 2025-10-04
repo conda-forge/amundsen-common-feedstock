@@ -36,6 +36,7 @@ tests:
         - amundsen_common
       pip_check: true
       python_version: ${{ python_min }}.*
+
 about:
   summary: Common code library for Amundsen
   license: MIT AND Apache-2.0
